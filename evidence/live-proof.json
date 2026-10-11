@@ -1,0 +1,55 @@
+{
+  "auditId": "QUEUE-1791756981",
+  "transactions": {
+    "open": "0xc9b6ee148bf7b5c11b162fc9c17798bfb806be0e7e8bee5fc9bb31d0c734b744",
+    "audit": "0x5169df6c7c7f59334c00725665f843529598c85d425c6b83eab08351b2057066"
+  },
+  "state": {
+    "digests": [
+      "e38a710f91cf28cec7078786dc54cfa4fa4c92c3070a0bb59b18722221e77976",
+      "1a85764743fb07a4cb4a7f58d945c99a1f00535f8c37ce84e92c14ff3539d7e3",
+      "199dfa3f59fdde70a4f24328d5bbcfbe6ceb7d2fc66bc5ffb21600916ec57e2e",
+      "35c25f9c4fd22520eee32adcad2a5b3e690adf36cbff337b06b2804a65f87299"
+    ],
+    "id": "QUEUE-1791756981",
+    "inversion_pairs": [
+      [
+        0,
+        1
+      ]
+    ],
+    "owner": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "record_urls": [
+      "https://raw.githubusercontent.com/warnedwarn/queue-covenant/a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d/evidence/record-a.md",
+      "https://raw.githubusercontent.com/warnedwarn/queue-covenant/a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d/evidence/record-b.md",
+      "https://raw.githubusercontent.com/warnedwarn/queue-covenant/a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d/evidence/record-c.md"
+    ],
+    "rows": [
+      {
+        "index": 0,
+        "priority_rank": 0,
+        "received_at": 1791750000,
+        "served_at": 1791750900,
+        "status": "OK"
+      },
+      {
+        "index": 1,
+        "priority_rank": 1,
+        "received_at": 1791750100,
+        "served_at": 1791750400,
+        "status": "OK"
+      },
+      {
+        "index": 2,
+        "priority_rank": 2,
+        "received_at": 1791750200,
+        "served_at": 1791751200,
+        "status": "OK"
+      }
+    ],
+    "rule_url": "https://raw.githubusercontent.com/warnedwarn/queue-covenant/a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d/evidence/queue-rule.md",
+    "state": "INVERSION",
+    "title": "Housing repair service queue"
+  },
+  "disclosure": "The rule and service records are operator-authored technical fixtures."
+}

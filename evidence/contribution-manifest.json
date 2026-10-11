@@ -1,0 +1,12 @@
+{
+  "account":"warnedwarn",
+  "repository":"https://github.com/warnedwarn/queue-covenant",
+  "reviewedSource":"https://github.com/warnedwarn/queue-covenant/blob/a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d/contracts/contract.py",
+  "sourceCommit":"a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d",
+  "sourceSha256":"20fc3e1c7084a4692d9c2801eb244e4369b4793d4893d850bc3765da691904c7",
+  "contractAddress":"0x3621bb078ffcb1f678437db29dd9c10dA8A6CE70",
+  "explorer":"https://explorer-studio.genlayer.com/address/0x3621bb078ffcb1f678437db29dd9c10dA8A6CE70",
+  "deploymentTransaction":"0xd3c2bbda8e62275523cf0eb8729a93feeded022db42b56158b319aaa34c9c010",
+  "liveRecord":"QUEUE-1791756981",
+  "liveResult":"INVERSION"
+}

@@ -14,3 +14,11 @@ The included records are operator-created technical fixtures, not independent go
 genvm-lint contracts/contract.py
 python -m pytest -q
 ```
+
+## StudioNet docket
+
+- Contract: [`0x3621bb078ffcb1f678437db29dd9c10dA8A6CE70`](https://explorer-studio.genlayer.com/address/0x3621bb078ffcb1f678437db29dd9c10dA8A6CE70)
+- Reviewed source: [`a76ed86`](https://github.com/warnedwarn/queue-covenant/tree/a76ed86cf5c83f887fba4a8c8c520d00a1cf6f0d)
+- Live audit: `QUEUE-1791756981`, final state `INVERSION`, pair `[0,1]`.
+- Deployment and audit transactions are preserved under `deployment.json` and `evidence/live-proof.json`.
+- Verification: finalized, majority agree, successful execution, exact deployed-source match.
